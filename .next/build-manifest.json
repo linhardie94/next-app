@@ -1,0 +1,55 @@
+{
+  "polyfillFiles": [
+    "static/chunks/polyfills-c67a75d1b6f99dc8.js"
+  ],
+  "devFiles": [],
+  "ampDevFiles": [],
+  "lowPriorityFiles": [
+    "static/MslhpCpqqPg8KM1ud3SGF/_buildManifest.js",
+    "static/MslhpCpqqPg8KM1ud3SGF/_ssgManifest.js"
+  ],
+  "rootMainFiles": [],
+  "pages": {
+    "/": [
+      "static/chunks/webpack-8fa1640cc84ba8fe.js",
+      "static/chunks/framework-ad45764ecfcae9e5.js",
+      "static/chunks/main-1759dfcc63943fcd.js",
+      "static/chunks/566-064aa38265114942.js",
+      "static/chunks/pages/index-d7c50e823aa77662.js"
+    ],
+    "/_app": [
+      "static/chunks/webpack-8fa1640cc84ba8fe.js",
+      "static/chunks/framework-ad45764ecfcae9e5.js",
+      "static/chunks/main-1759dfcc63943fcd.js",
+      "static/chunks/pages/_app-df511a3677d160f6.js"
+    ],
+    "/_error": [
+      "static/chunks/webpack-8fa1640cc84ba8fe.js",
+      "static/chunks/framework-ad45764ecfcae9e5.js",
+      "static/chunks/main-1759dfcc63943fcd.js",
+      "static/chunks/pages/_error-dfcfa5bb62767c20.js"
+    ],
+    "/post": [
+      "static/chunks/webpack-8fa1640cc84ba8fe.js",
+      "static/chunks/framework-ad45764ecfcae9e5.js",
+      "static/chunks/main-1759dfcc63943fcd.js",
+      "static/chunks/566-064aa38265114942.js",
+      "static/chunks/pages/post-51b2b614b4b4aaf8.js"
+    ],
+    "/starships": [
+      "static/chunks/webpack-8fa1640cc84ba8fe.js",
+      "static/chunks/framework-ad45764ecfcae9e5.js",
+      "static/chunks/main-1759dfcc63943fcd.js",
+      "static/chunks/566-064aa38265114942.js",
+      "static/chunks/pages/starships-462e876bfb782e1b.js"
+    ],
+    "/vehicles": [
+      "static/chunks/webpack-8fa1640cc84ba8fe.js",
+      "static/chunks/framework-ad45764ecfcae9e5.js",
+      "static/chunks/main-1759dfcc63943fcd.js",
+      "static/chunks/566-064aa38265114942.js",
+      "static/chunks/pages/vehicles-dede00384f13091b.js"
+    ]
+  },
+  "ampFirstPages": []
+}
